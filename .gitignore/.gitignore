@@ -1,0 +1,28 @@
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
+
+/*
+[{"Id":"000000000","Name":"C.O."},
+{"Id":"010000000","Name":"I"},
+{"Id":"020000000","Name":"II"},
+{"Id":"030000000","Name":"III"},
+{"Id":"040000000","Name":"IV-A"},
+{"Id":"050000000","Name":"V"},
+{"Id":"060000000","Name":"VI"},
+{"Id":"070000000","Name":"VII"},
+{"Id":"080000000","Name":"VIII"},
+{"Id":"090000000","Name":"IX"},
+{"Id":"100000000","Name":"X"},
+{"Id":"110000000","Name":"XI"},
+{"Id":"120000000","Name":"XII"},
+{"Id":"130000000","Name":"NCR"},
+{"Id":"140000000","Name":"CAR"},
+{"Id":"150000000","Name":"ARMM"},
+{"Id":"160000000","Name":"CARAGA"},
+{"Id":"170000000","Name":"IV-B"}]*/
